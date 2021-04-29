@@ -1,4 +1,4 @@
-<h2 align="left">Selam millet | Bizetré#0001 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="left">Selam millet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | Bizetré#0001 </h2>
    <p align="left">Ben <a href="https://bizetre.com/">Bizetré!</a>
 <p align="left">
    <a href="https://discord.com/users/707346973044506745" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
