@@ -8,7 +8,7 @@
 <h3>Kişisel bilgilerim:</h3>
 <ul>
   <li>💻 Şuan Slash adını verdiğim Discord BETA özelliklerine erken erişim sağlayabilen bir bot üzerinde çalışıyorum 🌙</li>
-  <li>📫 Bana ulaşmak istiyorsan <a href="https://discord.com/users/707346973044506745" target"blank_">Discord</a> veya <a href="https://instagram.com/bizettre" target="_blank">Instagram </a> adresimi kullanabilirsin 🤹</li>
+  <li>📫 Bana ulaşmak istiyorsan <a href="https://discord.com/users/824246226287460383" target"blank_">Discord</a> veya <a href="https://instagram.com/celikyalcinkayaa" target="_blank">Instagram </a> adresimi kullanabilirsin 🤹</li>
 </ul>
 <h3>Çalışma alanlarım:</h3>
 <p style="float:right">
