@@ -1,5 +1,5 @@
 <h2 align="left">Selam millet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | uzi#1000 </h2>
-   <p align="left">Ben <a href="https://bizetre.com/">uzi!</a>
+   <p align="left">Ben <a href="https://celikyalcinkaya.com/">uzi!</a>
 <p align="left">
    <a href="https://discord.com/users/707346973044506745" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/av1w9kp713t2uwm1xyvqrth63" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
